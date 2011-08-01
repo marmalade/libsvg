@@ -1,12 +1,5 @@
-The GNOME SVG Library (RSVG) is library for rendering SVG and SVGZ files. RSVG is released under the GNU General Public License (GNU GPL), which allows for flexible licensing of client applications.
+This is librsvg - A high performance SVG rendering library associated with the Gnome Project.
 
-RSVG depends on the following libraries:
+If you have questions or comments about librsvg, please send email to librsvg-devel@lists.sourceforge.net. Any bugs should be reported to http://bugzilla.gnome.org/
 
-GLib	
-A general-purpose utility library, not specific to graphical user interfaces. GLib provides many useful data types, macros, type conversions, string utilities, file utilities, a main loop abstraction, and so on.
-
-Pango	
-A general-purpose text library. http://www.pango.org
-
-GdkPixbuf	
-A general-purpose image library.
+Also, more information on librsvg can be found at librsvg.sf.net

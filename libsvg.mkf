@@ -1,11 +1,12 @@
 includepaths
 {
-	"./libsvg"
+	"./librsvg"
 }
 files
 {
 	["Src"]
-	(libsvg)
+	(librsvg)
+config.h
 librsvg-enum-types.h
 librsvg-features.h
 rsvg-bpath-util.h
